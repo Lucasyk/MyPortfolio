@@ -23,9 +23,9 @@ export default function Home() {
       </nav>
       <section className="hero shell" id="top">
         <div className="eyebrow"><span /> Full-stack developer based in Japan</div>
-        <h1>I build software that<em> earns its keep.</em></h1>
+        <h1>I build software<em> for fun!!!</em></h1>
         <div className="heroFooter">
-          <p>I&apos;m Lucas Koga—a programmer turning ambitious ideas into useful, dependable products with Java, React, and a stubborn curiosity for how things work.</p>
+          <p>I&apos;m Lucas Koga—a programmer turning ambitious ideas into useful, dependable products with Java, React, and whatever I get interested hahah.</p>
           <a className="roundLink" href="#work" aria-label="View selected work"><ArrowDownRight size={30} /></a>
         </div>
         <div className="heroCode" aria-hidden="true"><span>while</span> (curious) &#123; <b>build</b>(); <i>learn</i>(); &#125;</div>
